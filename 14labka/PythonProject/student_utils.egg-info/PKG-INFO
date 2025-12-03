@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: student_utils
+Version: 0.1.0
+Summary: Simple utility package for lab work
+Author-email: Otto <otto0@example.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# student_utils
+
+Учебный пакет с функциями для математики, строк и вспомогательных сообщений.
